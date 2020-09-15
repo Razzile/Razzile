@@ -3,7 +3,7 @@
 Hi, I'm razzile and I like goats.
 </p>
 <p align="left">
-Please visit my [blog](https://satorify.org/blog) or follow me on [Twitter](https://twitter.com/Razzilient)
+   Please visit my <a href="https://satorify.org/blog">blog</a> or follow me on <a href="https://twitter.com/Razzilient">Twitter</a>
 </p>
 
 <br/>
