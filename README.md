@@ -1,9 +1,5 @@
-<img align="right" src="https://satorify.org/goatOfTheDay" height=200px></img>
-<p align='center'>
-   <a href="https://www.linkedin.com/in/bbcallum/"><img height="30" src="https://raw.githubusercontent.com/Razzile/Razzile/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/Razzilient"><img height="30" src="https://raw.githubusercontent.com/Razzile/Razzile/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://satorify.org/blog"><img height="30" src="https://raw.githubusercontent.com/Razzile/Razzile/master/ghost.png?raw=true"></a>&nbsp;&nbsp;
- </p>
+
+ <img align="right" src="https://satorify.org/goatOfTheDay" height=200px></img>
 <p align="left">
 Hi, I'm razzile and I like goats.
 </p>
