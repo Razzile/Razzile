@@ -3,7 +3,7 @@
 Hi, I'm razzile and I like goats. I am a network programmer at Creative Assembly by day, reverse engineer by night. 
  </p>
  <p>
-  <img align="right" src="https://satorify.org/goatOfTheDay" height=160px></img>
+  <img align="right" src="https://spacego.at/goatOfTheDay" height=160px></img>
   </p>
 <p>
 I am still active despite my GitHub graphs.
