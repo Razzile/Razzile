@@ -1,17 +1,21 @@
+<img align="right" src="https://spacego.at/goatOfTheDay" height=160px></img>
+<h2 >
+ Hi, I'm SpaceGoat 🐐
+</h2>
 
-<p align="left">
-Hi, I'm razzile and I like goats. I am a network programmer at Creative Assembly by day, reverse engineer by night. 
- </p>
- <p>
-  <img align="right" src="https://spacego.at/goatOfTheDay" height=160px></img>
-  </p>
 <p>
-I am still active despite my GitHub graphs.
+I am a software engineer interested in reverse engineering, software security and low-level systems. I am a network programmer at Creative Assembly by day, and currently work on the <a href="https://github.com/xenia-project/xenia">Xenia Xbox 360 Emulator</a> at night. 
 </p>
-<p align="left">
-   Please visit my <a href="https://spacego.at/blog">blog</a> or follow me on <a href="https://twitter.com/Razzilient">Twitter</a> to keep up to date with whatever it is I'm working on
- </br>
- </br>
- <a href="https://twitter.com/Razzilient"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Razzilient?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@Razzilient"></a>
+<p>
+A lot of the work I do is not publicly visible on my GitHub. 
+</p>
 
-</p>
+
+<br/>
+
+<h2 align="left">My Links</h2>
+<ul>
+<li><a href="https://twitter.com/Razzilient">🐦 Twitter</a></li>
+<li><a href="https://spacego.at">🌐 Website</a></li>
+<li><a href="https://spacego.at/blog/">📚 Blog</a></li>
+</ul>
