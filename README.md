@@ -1,4 +1,4 @@
-<img align="right" src="https://spacego.at/goatOfTheDay" height=160px></img>
+<!-- <img align="right" src="https://spacego.at/goatOfTheDay" height=160px></img> -->
 <h2 >
  Hi, I'm SpaceGoat 🐐
 </h2>
