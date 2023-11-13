@@ -4,7 +4,7 @@
 </h2>
 
 <p>
-I am a software engineer interested in reverse engineering, software security and low-level systems. I am a network programmer at Creative Assembly by day, and currently work on the <a href="https://github.com/xenia-project/xenia">Xenia Xbox 360 Emulator</a> at night. 
+I am a software engineer interested in reverse engineering, software security and low-level systems.
 </p>
 <p>
 A lot of the work I do is not publicly visible on my GitHub. 
